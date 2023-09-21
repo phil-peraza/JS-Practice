@@ -2,17 +2,17 @@
  background: #FFF;
  text-align: center;
  display: flex;
- justify-content: space-evenly;
+ justify-content: center;
  padding-top: 50px;
  border-bottom: solid black 2px;
- margin: 0 250px;
+ margin: 0 450px;
 }
 
 .header__image {
  height: 60px;
  width: 40px;
  background-repeat: no-repeat;
- margin: 0;
+ margin-right: 20px;
  padding-top: 12px;
 }
 
