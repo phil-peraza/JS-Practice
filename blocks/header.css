@@ -1,3 +1,22 @@
 .header {
- background: lightgray;
+ background: #FFF;
+ text-align: center;
+ display: flex;
+ justify-content: space-evenly;
+ padding-top: 50px;
+ border-bottom: solid black 2px;
+ margin: 0 250px;
+}
+
+.header__image {
+ height: 60px;
+ width: 40px;
+ background-repeat: no-repeat;
+ margin: 0;
+ padding-top: 12px;
+}
+
+.header__title {
+ margin: 0;
+ padding: 50px 0;
 }
